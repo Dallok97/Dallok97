@@ -16,9 +16,9 @@
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/></a>
 
 ## Github Stats
-![Dallok97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dallok97&count_private=true)
+(https://github-readme-stats.vercel.app/api?username=Dallok97&count_private=true)
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dallok97&layout=compact)]([https://github.com/Dallok97/github-readme-stats])
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Dallok97&layout=compact)]([https://github.com/Dallok97/github-readme-stats])
 
 
