@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Dallok97's%20GitHub&&fontColor=000000&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Dallok97's%20GitHub&&fontColor=000000&fontSize=50&animation=scaleIn)
 
 
 ## Language & Tool & Library
