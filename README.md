@@ -1,4 +1,4 @@
-## TECH & TOOL
+## LANGUAGE & TOOL
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/></a>
 
-## Github Stats
-(https://github-readme-stats.vercel.app/api?username=Dallok97&count_private=true)
+## STATS
 
-## Top Langs
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Dallok97&layout=compact)]([https://github.com/Dallok97/github-readme-stats])
+![Dallok97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dallok97&count_private=true)
 
+## TOP Langs
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dallok97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
