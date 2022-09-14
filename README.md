@@ -1,5 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Dallok97's%20GitHub&fontSize=70&animation=scaleIn)
+
+
 ## Language & Tool & Library
 
+<div align='center'>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -17,14 +21,31 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a>
-
-
-
+</div>
 
 ## Stats
 
+<div align='center'>
+
 ![Dallok97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dallok97&count_private=true)
+
+</div>
 
 ## Top Langs
 
+<div align='center'>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dallok97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+## About me
+
+<div align='center'>
+
+<a href="https://velog.io/@dallok97"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Velog&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gksrudrms@gmail.com)](gksrudrms:snugyun01@gmail.com)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=footer&animation=scaleIn)
