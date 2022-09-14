@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white"/></a>
 </div>
 
 ## Stats
