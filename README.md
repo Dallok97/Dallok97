@@ -1,4 +1,4 @@
-## LANGUAGE & TOOL
+## Language & Tool & Library
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
@@ -21,10 +21,10 @@
 
 
 
-## STATS
+## Stats
 
 ![Dallok97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dallok97&count_private=true)
 
-## TOP Langs
+## Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dallok97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
