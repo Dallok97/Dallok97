@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-### Language & Tool & Library & Framework
+### :computer:Stack
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
@@ -23,15 +23,15 @@
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white"/></a>
 
-### Stats
+### :books:Stats
 
 ![Dallok97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dallok97&count_private=true)
 
-### Most Used
+### :+1:Most Used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dallok97)](https://github.com/Dallok97/github-readme-stats)
 
-### About me
+### :smile:About me
 
 <a href="https://velog.io/@dallok97"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Velog&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gksrudrms@gmail.com)](gksrudrms:snugyun01@gmail.com)
