@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-### :computer:Stack
+### :computer: Stack
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -22,15 +22,15 @@
 
 
 
-### :books:Stats
+### :books: Stats
 
 ![Dallok97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dallok97&count_private=true)
 
-### :+1:Most Used
+### :+1: Most Used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dallok97)](https://github.com/Dallok97/github-readme-stats)
 
-### :smile:About me
+### :smile: About me
 
 <a href="https://velog.io/@dallok97"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Velog&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gksrudrms@gmail.com)](gksrudrms:snugyun01@gmail.com)
