@@ -1,4 +1,4 @@
-# 한경근 | Business Analyst · Business Planning · Project Management
+# Business Analyst · Business Planning · Project Management
 
 사업의 문제를 정의하고, 데이터를 의사결정 기준과 실행 계획으로 바꿉니다.
 
